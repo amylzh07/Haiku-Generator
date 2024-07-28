@@ -1,0 +1,22 @@
+autumn
+fall
+spring
+summer
+winter
+sunset
+sunrise
+dusk
+dawn
+evening
+morning
+daybreak
+nightfall
+golden hour
+lake
+beach
+desert
+mountains
+valley
+field
+city
+downtown
